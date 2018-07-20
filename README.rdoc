@@ -1,1 +1,4 @@
 = \Goog, a simple command-line tool for googling things in your terminal.
+
+\To use goog, add it to your path and then use it like so:
+    > goog who is da best baseball playa
